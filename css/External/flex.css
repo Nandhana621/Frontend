@@ -1,0 +1,22 @@
+.main{
+    width: 70%;
+    height: 400px;
+    background-color: blanchedalmond;
+    margin: auto;
+    display: flex;
+    gap: 5px;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.div1{
+    width: 400px;
+    background-color: aqua;
+}
+.div2{
+    width: 400px;
+    background-color: aquamarine;
+}
+.div3{
+    width: 400px;
+    background-color: burlywood;
+}

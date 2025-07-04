@@ -49,3 +49,27 @@
 .img{
    opacity:0.4;
 }
+.main{
+   width: 100%;
+   height: 80vh;
+}
+.innermain{
+   position: relative;
+   width: 100%;
+   background-color: aquamarine;
+}
+.class{
+   width: 100%;
+   height: 80vh;
+}
+.writing{
+   color: blueviolet;
+   position: absolute;
+   top: 20%;
+   left: 50%;
+}
+.fixed{
+   position:sticky;
+   top: 0;
+   width: 100%;
+}
