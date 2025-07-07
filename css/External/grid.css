@@ -1,0 +1,21 @@
+.main{
+    width: 80%;
+    /* height: 400px; */
+    background-color: rgb(184, 40, 141);
+    display: grid;
+    grid-template-columns:20% 30% 10% 40%;
+    grid-template-rows: 200px 100px 350px;
+    /* gap: 5px; */
+}
+.div1{
+    background-color: blue;
+    /* width: 100%; */
+}
+.div2{
+    background-color: blueviolet;
+    /* width: 100%; */
+}
+.div3{
+    background-color: cadetblue;
+    /* width: 100%; */
+}

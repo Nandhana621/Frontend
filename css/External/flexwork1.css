@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    width: 100;
+}
+.main{
+    width: 100%;
+    height: 0;
+}
+.header1 p{
+    background-color: yellow;
+    padding: 50px;
+    text-align: center;
+}
+.header2{
+    text-align: center;
+    background-color: rgb(12, 157, 135);
+}
+.header3 {
+    background-color: rgb(46, 45, 45);
+}
+.subheader1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: baseline;
+}
+.header4{padding: 20px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.header41{
+    background-color: rgb(231, 229, 229);
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+}
+.header5{
+
+    background-color: white;
+    display: flex;
+    flex-direction:column   ;
+    justify-content: flex-start;
+}
+

@@ -20,3 +20,15 @@
     width: 400px;
     background-color: burlywood;
 }
+.heading1{
+    display: inline;
+}
+.heading2{
+    display: inline;
+}
+.a{
+    display: block;
+}
+.b{
+    display: block;
+}
